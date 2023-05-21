@@ -9,7 +9,7 @@ from invalidusage import InvalidUsage
 import shutil
 
 app = Flask('app')
-local_url = "http://10.0.0.21:5698/"
+local_url = "http://traptrixden.ddns.net:5698/"
 
 textAnalyzer = TextAnalyzer()
 
