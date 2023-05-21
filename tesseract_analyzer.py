@@ -4,9 +4,6 @@ import os
 import cv2
 import numpy as np
 
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-
-
 class TextAnalyzer:
 	def __init__(self):
 		pass
