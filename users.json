@@ -40,6 +40,71 @@
 		"languages": "English, Korean",
 		"status": "student",
 		"grade": 12,
-		"Points": 2
-	}
+		"points": 2
+	},
+	{
+        "name": "Christian Aguayo",
+        "username": "caguayo368",
+        "email": "christiaguy@school.edu",
+        "password": "blueisme",
+        "languages": "English, Spanish",
+        "status": "student",
+        "grade": 4,
+        "points": 30
+    },
+
+    {
+        "name": "Jay Kim",
+        "username": "jkim127",
+        "email": "jaykim@school.edu",
+        "password": "nojams",
+        "languages": "Korean",
+        "status": "student",
+        "grade": 5,
+        "points": 12
+    },
+
+    {
+        "name": "Nora Alem",
+        "username": "nalem322",
+        "email": "nalem1@school.edu",
+        "password": "password",
+        "languages": "English, Amharic, Somali",
+        "status": "student",
+        "grade": 6,
+        "points": 400
+    },
+
+    {
+        "name": "Lander Cruz",
+        "username": "lcruz03",
+        "email": "landercruz3@school.edu",
+        "password": "angelfish",
+        "languages": "English, Tagalog",
+        "status": "student",
+        "grade": 6,
+        "points": 20
+    },
+
+    {
+        "name": "Fatima Ali",
+        "username": "fali4493",
+        "email": "fatimaali49@school.edu ",
+        "password": "dogsandcats",
+        "languages": "English, Arabic",
+        "status": "student",
+        "grade": 7,
+        "points": 348
+    },
+
+    {
+        "name": "Carlos Alves-Santos",
+        "username": "calvessantos",
+        "email": "carlosalvessa12@school.edu ",
+        "password": "beach234",
+        "languages": "English, Portugese",
+        "status": "student",
+        "grade": 3,
+        "points": 15
+    }
 ]
