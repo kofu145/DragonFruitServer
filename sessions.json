@@ -1,1 +1,11 @@
-{}
+[
+  {
+    "username": "danif984",
+    "name": "Dani Fyre",
+    "email": "danif@school.edu ",
+    "grade": 9,
+    "points": 50,
+	"languages": "Urdu, Hindi",
+    "auth": "903c7dc3-8de2-4746-9846-ae48b16fb006"
+  }
+]

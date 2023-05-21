@@ -1,1 +1,45 @@
-[]
+[
+	{
+		"name": "Miriam Ortega",
+		"username": "morthega579",
+		"email": "miriamorth@school.edu",
+		"password": "breadisjam@12",
+		"languages": "Spanish",
+		"status": "student",
+		"grade": 6,
+		"points": 120
+	},
+
+	{
+		"name": "Joshua Clam",
+		"username": "jclam232",
+		"email": "joscl@school.edu",
+		"password": "animalsgreenrock3y3!",
+		"languages": "English, Japanese",
+		"status": "student",
+		"grade": 8,
+		"points": 1700
+	},
+
+	{
+		"name": "Dani Fyre",
+		"username": "danif984",
+		"email": "danif@school.edu ",
+		"password": "waterbomb",
+		"languages": "English, Urdu, Hindi",
+		"status": "student",
+		"grade": 9,
+		"points": 50
+	},
+
+	{
+		"name": "Hyunjin Bread",
+		"username": "hbread123",
+		"email": "hyunjinb09@school.edu ",
+		"password": "kurukuru123",
+		"languages": "English, Korean",
+		"status": "student",
+		"grade": 12,
+		"Points": 2
+	}
+]
