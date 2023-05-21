@@ -161,12 +161,19 @@ def modify_posts():
 		# request form is appended 
 		post = {
 			"author": request.form["author"],
+			"profilepicture": local_url + "profile_images/" + request.form["author"] + ".jpg",
+			"title": request.form["title"],
+			"is_qa": false,
+			"name": request.form["name"],
+			"points": 0,
+			"replies": [],
+			"reply_count": 0,
 			"content": request.form["content"],
-			"likes": 0
+			"points": 0
 		}
 		posts.append(post)
 
-		with open("posts.json", "w") as f:
+		with open("posts.json", "wb") as f:
 			json.dump(posts, f, indent=2)
 		return jsonify({"message": "Successfully made new post!"}), 200
 
