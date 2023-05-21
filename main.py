@@ -163,7 +163,7 @@ def modify_posts():
 			"author": request.form["author"],
 			"profilepicture": local_url + "profile_images/" + request.form["author"] + ".jpg",
 			"title": request.form["title"],
-			"is_qa": false,
+			"is_qa": False,
 			"name": request.form["name"],
 			"points": 0,
 			"replies": [],
