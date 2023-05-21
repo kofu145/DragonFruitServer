@@ -173,7 +173,7 @@ def modify_posts():
 		}
 		posts.append(post)
 
-		with open("posts.json", "wb") as f:
+		with open("posts.json", "w") as f:
 			json.dump(posts, f, indent=2)
 		return jsonify({"message": "Successfully made new post!"}), 200
 
